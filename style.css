@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+.text{
+    border: 1px solid black;
+    padding: 3px;
+    border-radius: 10px;
+}
+footer{
+    background-color: black;
+}
+p{
+    line-height: 28px;
+    color: black;
+}
+main img{
+    margin: 10px;
+    border-left: 10px dotted black;
+    padding: 2px;
+}
+footer p{
+    background-color: white;
+    margin: 5px;
+    border: 6px solid black;
+}
